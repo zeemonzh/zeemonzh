@@ -1,4 +1,5 @@
 # 💫 About Me:
+![image](https://github.com/user-attachments/assets/32b21164-5a3b-4c72-a3ac-d7944140ab19)
 👾 I’m currently working on a web aio-dma tool<br>🎶 I’m currently an apprentice as a software developer<br>☯️ Ask me about anything tech related<br>🔮 Currently learning C++ (DMA related projects)
 
 
