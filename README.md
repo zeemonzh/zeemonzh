@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/32b21164-5a3b-4c72-a3ac-d7944140ab19)
-
 # 💫 About Me:
 👾 I’m currently working on a web aio-dma tool<br>🎶 I’m currently an apprentice as a software developer<br>☯️ Ask me about anything tech related<br>🔮 Currently learning C++ (DMA related projects)
 
@@ -17,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zeemonzh&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![image](https://github.com/user-attachments/assets/32b21164-5a3b-4c72-a3ac-d7944140ab19)
